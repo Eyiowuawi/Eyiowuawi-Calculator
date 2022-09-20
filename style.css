@@ -30,7 +30,9 @@ input[type=button]{
     border-radius: 10px;
     font-size: 20px;
     color: #fff;
-    background-color: #000;
+    background-color: rgb(6,
+19,
+105);
 }
 input[type=text]{
     width: 90%;
